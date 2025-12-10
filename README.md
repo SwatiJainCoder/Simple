@@ -1,6 +1,6 @@
 # Developing a Single Page App with Flask and Vue.js
 
-## Want to use this project?
+This project provides a starter teamplate to students doing their first project
 
 1. Fork/Clone
 
